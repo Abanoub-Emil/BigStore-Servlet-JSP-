@@ -6,7 +6,6 @@
 package util;
 
 import java.io.Serializable;
-
 /**
  *
  * @author Dell Laptop

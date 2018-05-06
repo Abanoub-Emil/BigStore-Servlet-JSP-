@@ -6,7 +6,6 @@
 package DATABASELAYER.DTO;
 
 import java.io.Serializable;
-
 /**
  *
  * @author Dell Laptop

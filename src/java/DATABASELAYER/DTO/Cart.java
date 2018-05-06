@@ -5,7 +5,6 @@
  */
 package DATABASELAYER.DTO;
 
-import java.util.Date;
 
 /**
  *
